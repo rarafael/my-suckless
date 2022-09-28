@@ -6,7 +6,7 @@
 /* appearance */
 static const unsigned int borderpx       = 1;   /* border pixel of windows */
 static const unsigned int snap           = 32;  /* snap pixel */
-static const unsigned int gappx          = 8;   /* gap size */
+static const unsigned int gappx          = 4;   /* gap size */
 static const int swallowfloating         = 0;   /* swallow floating windows */
 static const int lockfullscreen          = 1;   /* 1 will force focus on the fullscreen window */
 static const int showbar                 = 1;   /* 0 means no bar */
